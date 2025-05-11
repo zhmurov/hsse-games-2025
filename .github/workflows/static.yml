@@ -38,11 +38,12 @@ jobs:
         with:
           src-root: './md'
           build-root: './build'
+          lint-root: './html'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './build'
+          path: './html'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
