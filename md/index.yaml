@@ -50,3 +50,13 @@ blocks:
       text: Play
       url: https://tsimbaliukgame.pythonanywhere.com/
     animated: false
+  - type: banner-block
+    title: Flappy Bird
+    subtitle: 'Flappy Bird — это классическая аркадная игра, реализованная с использованием JavaScript, Three.js и Deno. Управляйте птичкой, пролетайте через препятствия и соревнуйтесь за место в таблице лидеров!'
+    image: FlappyBird.png
+    disableCompress: true
+    color: '#7fc7ff'
+    button:
+      text: Play
+      url: https://mcmaxim-deno-flappy-23.deno.dev/
+    animated: false
