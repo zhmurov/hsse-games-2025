@@ -62,5 +62,14 @@ blocks:
     color: '#a52a2a'
     button:
       text: Play
-      url: https://anatoliikornilov.pythonanywhere.com/leaderboard
+      url: https://anatoliikornilov.pythonanywhere.com/
+  - type: banner-block
+    title: Snake Game
+    subtitle: 'Усовершенствованная версия игры Змейка! Это современная интерпретация классической игры с новыми возможностями и препятствиями.'
+    image: SnakeGame.png
+    disableCompress: true
+    color: '#4caf50'
+    button:
+      text: Play
+      url: https://zva-snake-game.deno.dev/
 animated: false
