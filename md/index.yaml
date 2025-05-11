@@ -40,3 +40,13 @@ blocks:
       text: Play
       url: https://papa-svin.deno.dev/
     animated: false
+  - type: banner-block
+    title: Космический прорыв
+    subtitle: 'Вы играете за отважного пилота истребителя! Вам предстоит прорываться сквозь обширный флот противников, с целью уничтожить как можно больше вражеских командных кораблей!'
+    image: SpaceBreak.png
+    disableCompress: true
+    color: '#4949a7'
+    button:
+      text: Play
+      url: https://tsimbaliukgame.pythonanywhere.com/
+    animated: false
