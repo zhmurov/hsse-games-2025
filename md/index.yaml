@@ -144,4 +144,22 @@ blocks:
     button:
       text: Play
       url: https://boobert0032-ctulhuinvaders.deno.dev/
+  - type: banner-block
+    title: Fruitsweeper
+    subtitle: 'Вы оказались в саду, полном спелых фруктов и ягод, но среди них спрятаны острые ножи. Твоя задача — аккуратно открывать клетки, чтобы не пораниться. Цифры на открытых клетках покажут, сколько ножей находится рядом. Собери весь урожай — и станешь главным фруктовым героем!'
+    image: FruitSweeper.png
+    disableCompress: true
+    color: '#fce3e8'
+    button:
+      text: Play
+      url: https://dmithrowe-fruitsweeeper.deno.dev
+  - type: banner-block
+    title: 2048
+    subtitle: 'Авторская реализация игры 2048 с некоторыми нововведениями.'
+    image: 2048.jpeg
+    disableCompress: true
+    color: '#faf8ef'
+    button:
+      text: Play
+      url: https://2048game.deno.dev
 animated: false
