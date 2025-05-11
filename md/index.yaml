@@ -20,3 +20,13 @@ blocks:
       text: Play
       url: https://king-of-prerie.deno.dev/
     animated: false
+  - type: banner-block
+    title: Dev Dungeon
+    subtitle: 'Аркада, в которой вы играете за программиста, застрявшего в цифровом подземелье. Чтобы выбраться, нужно проходить уровни, избегать врагов, собирать бонусы и не попасться системе слежки. На пути вам попадётся много ловушек, бонусов, врагов и интересных игровых механик.'
+    image: DevDungeon.png
+    disableCompress: true
+    color: '#222222'
+    button:
+      text: Play
+      url: https://leg15coder-devdungeon.deno.dev/
+    animated: false
