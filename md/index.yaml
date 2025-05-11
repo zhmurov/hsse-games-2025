@@ -99,4 +99,22 @@ blocks:
     button:
       text: Play
       url: https://met1moffey.github.io/
+  - type: banner-block
+    title: Игра Трон
+    subtitle: 'Вы управляете световым мотоциклом (Трон). Цель - продержаться как можно дольше, избегая столкновений с границами и следами. Скорость постепенно увеличивается, усложняя игру. После поражения введите имя для сохранения результата.'
+    image: Throne.png
+    disableCompress: true
+    color: '#00ffff'
+    button:
+      text: Play
+      url: https://niccneimi-trongamefro-72.deno.dev/
+  - type: banner-block
+    title: Фаербол
+    subtitle: 'Цель игры сломать все кирпичи как можно быстрее. Красный кирпич требует двух ударов, а белый одного. Скорость фаербола динамически меняется.'
+    image: Fireball.png
+    disableCompress: true
+    color: '#00ff00'
+    button:
+      text: Play
+      url: https://matveyzhikh-frontend-pr-38.deno.dev/
 animated: false
