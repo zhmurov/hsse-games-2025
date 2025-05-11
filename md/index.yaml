@@ -57,7 +57,7 @@ blocks:
   - type: banner-block
     title: Мультивселенная танков
     subtitle: 'Авторская версия легендарной "Battle City"'
-    image: TanksMultiverse.png
+    image: TanksMultiverse.jpeg
     disableCompress: true
     color: '#a52a2a'
     button:
