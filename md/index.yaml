@@ -30,3 +30,13 @@ blocks:
       text: Play
       url: https://leg15coder-devdungeon.deno.dev/
     animated: false
+  - type: banner-block
+    title: Papa Svin
+    subtitle: 'Its a simple game where you need to collect 10 berries as fast as you can.'
+    image: PapaSvin_crop.png
+    disableCompress: true
+    color: '#884382'
+    button:
+      text: Play
+      url: https://papa-svin.deno.dev/
+    animated: false
