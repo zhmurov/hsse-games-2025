@@ -117,4 +117,13 @@ blocks:
     button:
       text: Play
       url: https://matveyzhikh-frontend-pr-38.deno.dev/
+  - type: banner-block
+    title: Обычный день на ВШПИ
+    subtitle: 'Вам предстоит прожить самый обычный день любого ВШПИшника, а именно пытаться выжить в куче разных дедлайнов и обстоятельств. Цель игры - уклоняться от препятствий и не умереть.'
+    image: HSSEDay.png
+    disableCompress: true
+    color: '#ffcf40'
+    button:
+      text: Play
+      url: https://hsse-gaming.deno.dev/
 animated: false
