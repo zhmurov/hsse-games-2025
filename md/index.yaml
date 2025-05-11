@@ -66,10 +66,37 @@ blocks:
   - type: banner-block
     title: Snake Game
     subtitle: 'Усовершенствованная версия игры Змейка! Это современная интерпретация классической игры с новыми возможностями и препятствиями.'
-    image: SnakeGame.png
+    image: SnakeGame_crop.png
     disableCompress: true
     color: '#4caf50'
     button:
       text: Play
       url: https://zva-snake-game.deno.dev/
+  - type: banner-block
+    title: Space Invaders
+    subtitle: 'Моя интерпретация аркадной игры Space Invaders.'
+    image: SpaceInvaiders_crop.png
+    disableCompress: true
+    color: '#404040'
+    button:
+      text: Play
+      url: http://91.218.8.186:8001/
+  - type: banner-block
+    title: Blastar
+    subtitle: 'Простой космический шутер, вдохновленный классической аркадной игрой Blastar. Защитите Землю! Спасите Землю от инопланетного вторжения! Пробейтесь через волны врагов и наберите максимальное количество очков! '
+    image: Blastar.png
+    disableCompress: true
+    color: '#6a00f4'
+    button:
+      text: Play
+      url: https://blastarjs-70.deno.dev/
+  - type: banner-block
+    title: Salad Maker 9000
+    subtitle: 'Пародия на fruit ninja. Некоторые элементы пока не работают, но возможно будут доработаны после отправки этой формы (надежда умирает последней)'
+    image: SaladMaker1.jpeg
+    disableCompress: true
+    color: '#f0e68c'
+    button:
+      text: Play
+      url: https://met1moffey.github.io/
 animated: false
