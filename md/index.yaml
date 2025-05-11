@@ -126,4 +126,22 @@ blocks:
     button:
       text: Play
       url: https://hsse-gaming.deno.dev/
+  - type: banner-block
+    title: Space Invaders 2
+    subtitle: 'Вполне классические Space Invaders'
+    image: SpaceInvaiders2_crop.png
+    disableCompress: true
+    color: '#639bff'
+    button:
+      text: Play
+      url: https://frontend-space-invaders.deno.dev
+  - type: banner-block
+    title: Вторжение из Бездны
+    subtitle: 'Я ощущаю, как разум мой тает, словно воск под зловещим светом. Слова переплетаются в хаотичный танец, и я больше не могу отличить свои воспоминания от пробуждающихся видений: город, погружённый в кислотный сумрак; безмолвные колонны камня, увитые слизью; гигантская крылатая тень, простирающаяся над миром. Я пытаюсь схватиться за логику, но она ускользает, растворяясь в волнах космического ужаса.'
+    image: InvasionFromAbyss.png
+    disableCompress: true
+    color: '#405544'
+    button:
+      text: Play
+      url: https://boobert0032-ctulhuinvaders.deno.dev/
 animated: false
