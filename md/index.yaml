@@ -9,7 +9,6 @@ blocks:
     button:
       text: Play
       url: https://brainoid.deno.dev/
-    animated: false
   - type: banner-block
     title: Король Прерий
     subtitle: '"Король Прерий" — это аркадный 2D-шутер, в котором игрок сражается с волнами наступающих монстров, собирает усиления и старается выжить как можно дольше, устанавливая новые рекорды. Игра вдохновлена мини-игрой "Journey of the Prairie King" из Stardew Valley.'
@@ -19,7 +18,6 @@ blocks:
     button:
       text: Play
       url: https://king-of-prerie.deno.dev/
-    animated: false
   - type: banner-block
     title: Dev Dungeon
     subtitle: 'Аркада, в которой вы играете за программиста, застрявшего в цифровом подземелье. Чтобы выбраться, нужно проходить уровни, избегать врагов, собирать бонусы и не попасться системе слежки. На пути вам попадётся много ловушек, бонусов, врагов и интересных игровых механик.'
@@ -29,7 +27,6 @@ blocks:
     button:
       text: Play
       url: https://leg15coder-devdungeon.deno.dev/
-    animated: false
   - type: banner-block
     title: Papa Svin
     subtitle: 'Its a simple game where you need to collect 10 berries as fast as you can.'
@@ -39,7 +36,6 @@ blocks:
     button:
       text: Play
       url: https://papa-svin.deno.dev/
-    animated: false
   - type: banner-block
     title: Космический прорыв
     subtitle: 'Вы играете за отважного пилота истребителя! Вам предстоит прорываться сквозь обширный флот противников, с целью уничтожить как можно больше вражеских командных кораблей!'
@@ -49,7 +45,6 @@ blocks:
     button:
       text: Play
       url: https://tsimbaliukgame.pythonanywhere.com/
-    animated: false
   - type: banner-block
     title: Flappy Bird
     subtitle: 'Flappy Bird — это классическая аркадная игра, реализованная с использованием JavaScript, Three.js и Deno. Управляйте птичкой, пролетайте через препятствия и соревнуйтесь за место в таблице лидеров!'
@@ -59,4 +54,13 @@ blocks:
     button:
       text: Play
       url: https://mcmaxim-deno-flappy-23.deno.dev/
-    animated: false
+  - type: banner-block
+    title: Мультивселенная танков
+    subtitle: 'Авторская версия легендарной "Battle City"'
+    image: TanksMultiverse.png
+    disableCompress: true
+    color: '#a52a2a'
+    button:
+      text: Play
+      url: https://anatoliikornilov.pythonanywhere.com/leaderboard
+animated: false
