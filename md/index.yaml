@@ -10,3 +10,13 @@ blocks:
       text: Play
       url: https://brainoid.deno.dev/
     animated: false
+  - type: banner-block
+    title: Король Прерий
+    subtitle: '"Король Прерий" — это аркадный 2D-шутер, в котором игрок сражается с волнами наступающих монстров, собирает усиления и старается выжить как можно дольше, устанавливая новые рекорды. Игра вдохновлена мини-игрой "Journey of the Prairie King" из Stardew Valley.'
+    image: Brainoid-1.png
+    disableCompress: true
+    color: '#8a6dfd'
+    button:
+      text: Play
+      url: https://king-of-prerie.deno.dev/
+    animated: false
