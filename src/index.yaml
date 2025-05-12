@@ -162,4 +162,22 @@ blocks:
     button:
       text: Play
       url: https://2048game.deno.dev
+  - type: banner-block
+    title: Pong
+    subtitle: 'Pong — одна из самых ранних аркадных видеоигр и первая спортивная аркадная видеоигра. Она была выпущена в 1972 году компанией Atari, основанной Ноланом Бушнеллом и Тедом Дабни. Pong стала первой коммерчески успешной видеоигрой и помогла заложить основы индустрии видеоигр.'
+    image: Pong.png
+    disableCompress: true
+    color: '#ffffff'
+    button:
+      text: Play
+      url: https://faer-pong.deno.dev
+  - type: banner-block
+    title: Snake game
+    subtitle: 'стандартная змейка в моей вариации'
+    image: Snake.png
+    disableCompress: true
+    color: '#414141'
+    button:
+      text: Play
+      url: http://91.218.8.186:8002/
 animated: false
