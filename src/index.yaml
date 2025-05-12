@@ -4,7 +4,7 @@ blocks:
     title: Итоговый проект курса фронтенд разработки ВШПИ
     description: ''
     buttons:
-      - text: "Описание проекта\r"
+      - text: "Задание\r"
         theme: action
         url: ./description.html
       - text: 'Обсудить в Телеграм'
