@@ -202,4 +202,13 @@ blocks:
     button:
       text: Play
       url: https://javascriptg-52.deno.dev/
+  - type: banner-block
+    title: 22. Arkanoid
+    subtitle: 'Игра, в которой нужно отбивать мяч платформой, при этом стараясь поразить наибольшее количество блоков и не упустить мяч.'
+    image: Arkanoid_crop.png
+    disableCompress: true
+    color: '#ff2c3b'
+    button:
+      text: Play
+      url: https://progerfox.github.io/arkanoid_game_js/
 animated: false
