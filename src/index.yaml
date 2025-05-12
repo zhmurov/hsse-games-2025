@@ -190,4 +190,13 @@ blocks:
     button:
       text: Play
       url: http://91.218.8.186:8002/
+  - type: banner-block
+    title: 21. Project Ada
+    subtitle: 'Максимизация прибыли'
+    image: ProjectAda.png
+    disableCompress: true
+    color: '#e9967a'
+    button:
+      text: Play
+      url: https://javascriptg-52.deno.dev/
 animated: false
