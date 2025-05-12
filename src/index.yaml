@@ -1,7 +1,7 @@
 fullScreen: true
 blocks:
   - type: banner-block
-    title: Brainoid
+    title: 1. Brainoid
     subtitle: 'Brainoid - это аркада-статегия, в которой вам предстоит решить загадки уровней и собрать все монеты. В мире Brainoid ученый кот, профессор Мяуриций, изобрел портативное устройство для телепортации монет. Но что-то пошло не так! Монеты разлетелись по лабиринтам загадочных уровней, и теперь Мяурицию нужно их собрать! Помогите ему, управляя платформой и направляя кота, чтобы он вернул все монеты и исправил свою ошибку!'
     image: Brainoid-1.png
     disableCompress: true
@@ -10,7 +10,7 @@ blocks:
       text: Play
       url: https://brainoid.deno.dev/
   - type: banner-block
-    title: Король Прерий
+    title: 2. Король Прерий
     subtitle: '"Король Прерий" — это аркадный 2D-шутер, в котором игрок сражается с волнами наступающих монстров, собирает усиления и старается выжить как можно дольше, устанавливая новые рекорды. Игра вдохновлена мини-игрой "Journey of the Prairie King" из Stardew Valley.'
     image: KingOfPrairies.png
     disableCompress: true
@@ -19,7 +19,7 @@ blocks:
       text: Play
       url: https://king-of-prerie.deno.dev/
   - type: banner-block
-    title: Dev Dungeon
+    title: 3. Dev Dungeon
     subtitle: 'Аркада, в которой вы играете за программиста, застрявшего в цифровом подземелье. Чтобы выбраться, нужно проходить уровни, избегать врагов, собирать бонусы и не попасться системе слежки. На пути вам попадётся много ловушек, бонусов, врагов и интересных игровых механик.'
     image: DevDungeon.png
     disableCompress: true
@@ -28,7 +28,7 @@ blocks:
       text: Play
       url: https://leg15coder-devdungeon.deno.dev/
   - type: banner-block
-    title: Papa Svin
+    title: 4. Papa Svin
     subtitle: 'Its a simple game where you need to collect 10 berries as fast as you can.'
     image: PapaSvin_crop.png
     disableCompress: true
@@ -37,7 +37,7 @@ blocks:
       text: Play
       url: https://papa-svin.deno.dev/
   - type: banner-block
-    title: Космический прорыв
+    title: 5. Космический прорыв
     subtitle: 'Вы играете за отважного пилота истребителя! Вам предстоит прорываться сквозь обширный флот противников, с целью уничтожить как можно больше вражеских командных кораблей!'
     image: SpaceBreak.png
     disableCompress: true
@@ -46,7 +46,7 @@ blocks:
       text: Play
       url: https://tsimbaliukgame.pythonanywhere.com/
   - type: banner-block
-    title: Flappy Bird
+    title: 6. Flappy Bird
     subtitle: 'Flappy Bird — это классическая аркадная игра, реализованная с использованием JavaScript, Three.js и Deno. Управляйте птичкой, пролетайте через препятствия и соревнуйтесь за место в таблице лидеров!'
     image: FlappyBird.png
     disableCompress: true
@@ -55,7 +55,7 @@ blocks:
       text: Play
       url: https://mcmaxim-deno-flappy-23.deno.dev/
   - type: banner-block
-    title: Мультивселенная танков
+    title: 7. Мультивселенная танков
     subtitle: 'Авторская версия легендарной "Battle City"'
     image: TanksMultiverse.jpeg
     disableCompress: true
@@ -64,7 +64,7 @@ blocks:
       text: Play
       url: https://anatoliikornilov.pythonanywhere.com/
   - type: banner-block
-    title: Snake Game
+    title: 8. Snake Game
     subtitle: 'Усовершенствованная версия игры Змейка! Это современная интерпретация классической игры с новыми возможностями и препятствиями.'
     image: SnakeGame_crop.png
     disableCompress: true
@@ -73,7 +73,7 @@ blocks:
       text: Play
       url: https://zva-snake-game.deno.dev/
   - type: banner-block
-    title: Space Invaders
+    title: 9. Space Invaders
     subtitle: 'Моя интерпретация аркадной игры Space Invaders.'
     image: SpaceInvaiders_crop.png
     disableCompress: true
@@ -82,7 +82,7 @@ blocks:
       text: Play
       url: http://91.218.8.186:8001/
   - type: banner-block
-    title: Blastar
+    title: 10. Blastar
     subtitle: 'Простой космический шутер, вдохновленный классической аркадной игрой Blastar. Защитите Землю! Спасите Землю от инопланетного вторжения! Пробейтесь через волны врагов и наберите максимальное количество очков! '
     image: Blastar.png
     disableCompress: true
@@ -91,7 +91,7 @@ blocks:
       text: Play
       url: https://blastarjs-70.deno.dev/
   - type: banner-block
-    title: Salad Maker 9000
+    title: 11. Salad Maker 9000
     subtitle: 'Пародия на fruit ninja. Некоторые элементы пока не работают, но возможно будут доработаны после отправки этой формы (надежда умирает последней)'
     image: SaladMaker1.jpeg
     disableCompress: true
@@ -100,7 +100,7 @@ blocks:
       text: Play
       url: https://met1moffey.github.io/
   - type: banner-block
-    title: Игра Трон
+    title: 12. Игра Трон
     subtitle: 'Вы управляете световым мотоциклом (Трон). Цель - продержаться как можно дольше, избегая столкновений с границами и следами. Скорость постепенно увеличивается, усложняя игру. После поражения введите имя для сохранения результата.'
     image: Throne.png
     disableCompress: true
@@ -109,7 +109,7 @@ blocks:
       text: Play
       url: https://niccneimi-trongamefro-72.deno.dev/
   - type: banner-block
-    title: Фаербол
+    title: 13. Фаербол
     subtitle: 'Цель игры сломать все кирпичи как можно быстрее. Красный кирпич требует двух ударов, а белый одного. Скорость фаербола динамически меняется.'
     image: Fireball.png
     disableCompress: true
@@ -118,7 +118,7 @@ blocks:
       text: Play
       url: https://matveyzhikh-frontend-pr-38.deno.dev/
   - type: banner-block
-    title: Обычный день на ВШПИ
+    title: 14. Обычный день на ВШПИ
     subtitle: 'Вам предстоит прожить самый обычный день любого ВШПИшника, а именно пытаться выжить в куче разных дедлайнов и обстоятельств. Цель игры - уклоняться от препятствий и не умереть.'
     image: HSSEDay.png
     disableCompress: true
@@ -127,7 +127,7 @@ blocks:
       text: Play
       url: https://hsse-gaming.deno.dev/
   - type: banner-block
-    title: Space Invaders 2
+    title: 15. Space Invaders 2
     subtitle: 'Вполне классические Space Invaders'
     image: SpaceInvaiders2_crop.png
     disableCompress: true
@@ -136,7 +136,7 @@ blocks:
       text: Play
       url: https://frontend-space-invaders.deno.dev
   - type: banner-block
-    title: Вторжение из Бездны
+    title: 16. Вторжение из Бездны
     subtitle: 'Я ощущаю, как разум мой тает, словно воск под зловещим светом. Слова переплетаются в хаотичный танец, и я больше не могу отличить свои воспоминания от пробуждающихся видений: город, погружённый в кислотный сумрак; безмолвные колонны камня, увитые слизью; гигантская крылатая тень, простирающаяся над миром. Я пытаюсь схватиться за логику, но она ускользает, растворяясь в волнах космического ужаса.'
     image: InvasionFromAbyss.png
     disableCompress: true
@@ -145,7 +145,7 @@ blocks:
       text: Play
       url: https://boobert0032-ctulhuinvaders.deno.dev/
   - type: banner-block
-    title: Fruitsweeper
+    title: 17. Fruitsweeper
     subtitle: 'Вы оказались в саду, полном спелых фруктов и ягод, но среди них спрятаны острые ножи. Твоя задача — аккуратно открывать клетки, чтобы не пораниться. Цифры на открытых клетках покажут, сколько ножей находится рядом. Собери весь урожай — и станешь главным фруктовым героем!'
     image: FruitSweeper.png
     disableCompress: true
@@ -154,7 +154,7 @@ blocks:
       text: Play
       url: https://dmithrowe-fruitsweeeper.deno.dev
   - type: banner-block
-    title: 2048
+    title: 18. 2048
     subtitle: 'Авторская реализация игры 2048 с некоторыми нововведениями.'
     image: 2048_crop.jpeg
     disableCompress: true
@@ -163,7 +163,7 @@ blocks:
       text: Play
       url: https://2048game.deno.dev
   - type: banner-block
-    title: Pong
+    title: 19. Pong
     subtitle: 'Pong — одна из самых ранних аркадных видеоигр и первая спортивная аркадная видеоигра. Она была выпущена в 1972 году компанией Atari, основанной Ноланом Бушнеллом и Тедом Дабни. Pong стала первой коммерчески успешной видеоигрой и помогла заложить основы индустрии видеоигр.'
     image: Pong.png
     disableCompress: true
@@ -172,7 +172,7 @@ blocks:
       text: Play
       url: https://faer-pong.deno.dev
   - type: banner-block
-    title: Snake game
+    title: 20. Snake game
     subtitle: 'стандартная змейка в моей вариации'
     image: Snake.png
     disableCompress: true
