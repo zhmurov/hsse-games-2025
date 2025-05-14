@@ -211,4 +211,13 @@ blocks:
     button:
       text: Play
       url: https://progerfox.github.io/arkanoid_game_js/
+  - type: banner-block
+    title: 23. MineSweeper
+    subtitle: 'You must find all traitors! For the motherland! Не судите строго, это моя первая попытка. P.S. Я принадлежу в базе по фронту((('
+    image: MineSweeper.jpeg
+    disableCompress: true
+    color: '#ff8080'
+    button:
+      text: Play
+      url: https://zetroretro.github.io/Frontend-game/
 animated: false
